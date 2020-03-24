@@ -1,0 +1,5 @@
+G:\VS2015Project\SocketProGram\Chapter6\Chapter6\Serv\5echo\echo\bin\Debug\echo.exe
+G:\VS2015Project\SocketProGram\Chapter6\Chapter6\Serv\5echo\echo\bin\Debug\echo.pdb
+G:\VS2015Project\SocketProGram\Chapter6\Chapter6\Serv\5echo\echo\obj\x86\Debug\echo.csprojResolveAssemblyReference.cache
+G:\VS2015Project\SocketProGram\Chapter6\Chapter6\Serv\5echo\echo\obj\x86\Debug\echo.exe
+G:\VS2015Project\SocketProGram\Chapter6\Chapter6\Serv\5echo\echo\obj\x86\Debug\echo.pdb
